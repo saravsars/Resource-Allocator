@@ -1,5 +1,5 @@
 # Resource-Allocator
-Resource allocator in python
+Resource Allocator in Python
 
 Run as script:
 --------------
@@ -9,7 +9,9 @@ Use as module:
 --------------
 Call `get_costs` method with the following arguments
 
-ResourceAllocator.get_costs(zdict,hours,cores,price)
+```
+  ResourceAllocator.get_costs(zdict,hours,cores,price)
+```
 
 Input
 -----
