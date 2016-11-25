@@ -1,3 +1,4 @@
+import xmltodict
 class Node:
 
 	def __init__(self,name,price,cores):
