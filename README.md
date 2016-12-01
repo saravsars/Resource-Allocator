@@ -5,7 +5,7 @@ Run as script:
 --------------
 Give the input in command line
 
-Use as module:
+Use as module::
 --------------
 Call `get_costs` method with the following arguments
 
